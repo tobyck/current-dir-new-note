@@ -1,0 +1,9 @@
+{
+	"id": "current-dir-new-note",
+	"name": "New Note in Current Dir",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Makes clicking on a link to a non-existant note create the note in the directory of your active note",
+	"author": "Toby Connor-Kebbell",
+	"isDesktopOnly": false
+}
